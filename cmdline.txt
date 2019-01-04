@@ -1,0 +1,1 @@
+console=tty0 console=ttyS5,115200n8 root=/dev/disk/by-partlabel/SYSTEM rootwait rw
